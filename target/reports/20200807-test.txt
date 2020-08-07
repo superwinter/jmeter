@@ -1,0 +1,31 @@
+test
+  time: 20200807T152835+0800 - 20200807T152835+0800
+  total duration:       1
+  requests:             10
+  requests per second:  10
+  response duration (ms)
+    min:                1711
+    average:            2170
+    max:                4448
+    standard deviation: 803
+    quantiles (ms)
+         10%     1711
+         20%     1776
+         30%     1798
+         40%     1809
+         50%     1840
+         60%     1843
+         70%     1847
+         80%     1944
+         90%     2684
+         99%     2684
+       99.9%     2684
+      100.0%     4448 (max. value)
+  response size (bytes)
+    total:              1079144
+    min:                62063
+    average:            107914
+    max:                181291
+    standard deviation: 37852
+  response status codes
+    200:                  10 (100%)

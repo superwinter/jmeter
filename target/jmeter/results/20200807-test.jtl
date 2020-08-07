@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="1798" lt="1712" ts="1596785315371" s="true" lb="/en-US/firefox/new/" rc="200" rm="OK" tn="test 1-1" dt="text" by="181291"/>
+<httpSample t="1847" lt="1811" ts="1596785315371" s="true" lb="/en-US/firefox/features/" rc="200" rm="OK" tn="test 1-2" dt="text" by="94548"/>
+<httpSample t="1809" lt="1771" ts="1596785315517" s="true" lb="/en-US/firefox/performance/" rc="200" rm="OK" tn="test 1-4" dt="text" by="92866"/>
+<httpSample t="1944" lt="1908" ts="1596785315419" s="true" lb="/en-US/firefox/security/" rc="200" rm="OK" tn="test 1-3" dt="text" by="93344"/>
+<httpSample t="1843" lt="1740" ts="1596785315819" s="true" lb="/en-US/firefox/new/" rc="200" rm="OK" tn="test 1-7" dt="text" by="181291"/>
+<httpSample t="1776" lt="1745" ts="1596785315917" s="true" lb="/en-US/firefox/features/" rc="200" rm="OK" tn="test 1-8" dt="text" by="94548"/>
+<httpSample t="1711" lt="1674" ts="1596785316018" s="true" lb="/en-US/firefox/security/" rc="200" rm="OK" tn="test 1-9" dt="text" by="93344"/>
+<httpSample t="1840" lt="1788" ts="1596785316120" s="true" lb="/en-US/firefox/performance/" rc="200" rm="OK" tn="test 1-10" dt="text" by="92866"/>
+<httpSample t="2684" lt="2516" ts="1596785315719" s="true" lb="/en-US/firefox/technology/" rc="200" rm="OK" tn="test 1-6" dt="text" by="92983"/>
+<httpSample t="4448" lt="4254" ts="1596785315618" s="true" lb="/en-US/firefox/customize/" rc="200" rm="OK" tn="test 1-5" dt="text" by="62063"/>
+
+</testResults>

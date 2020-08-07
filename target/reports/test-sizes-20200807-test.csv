@@ -1,0 +1,7 @@
+uri;count;total;min;average;max;standarddeviation;persecond;errors
+"/en-US/firefox/customize/";1;62063;62063;62063;62063;0;0;0
+"/en-US/firefox/features/";2;189096;94548;94548;94548;0;2;0
+"/en-US/firefox/security/";2;186688;93344;93344;93344;0;2;0
+"/en-US/firefox/performance/";2;185732;92866;92866;92866;0;2;0
+"/en-US/firefox/new/";2;362582;181291;181291;181291;0;0;0
+"/en-US/firefox/technology/";1;92983;92983;92983;92983;0;0;0
